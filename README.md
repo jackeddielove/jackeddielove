@@ -1,7 +1,3 @@
 # About me
 
-I have a PhD in math, an MDes in interaction design, and over a decade of experience in various teaching, leadership, and design roles.
-
-I love the magic that happens when we are engaged with ourselves and our world as creators in a creative place.
-
-Right now I am interested in medicine men and women, clairvoyants, intuitives, seers, energy healers, etc., and the implications of mainstream Western culture's denial of them.
+I am a mathematician, designer, and educator in San Francisco, California. I teach part-time at City College of San Francisco and tutor mathematics students ranging from 3rd grade to university. I am working on a math workshop for kids and adults called "Constructing Infinity", where we will explore the concept of infinity (in particular, infinite ordinals and real projective space) using interactive puzzles and craft materials.
